@@ -1,7 +1,0 @@
-Kingdom Hearts Fonts by Televo
-
-Uppercase:   ABCDEFGHIJKLMNOPQRSTUVWXYZ
-Lowercase:   abcdefghijklmnopqrstuvwxyz
-Numbers:     0123456789
-Punctuation: .,:;…!?*#/\(){}[]-_“”‘’"'
-Symbols:     @&©°|¢$€£¥+−×÷=≠><≥≤~^%
