@@ -1,6 +1,7 @@
 # Kingdom Hearts Re:Collection
 
 **Kingdom Hearts Re:Collection is a free archive of art assets and custom fonts created by Televo.** 
+
 There are two main art styles included in Re:Collection; Default (flashy in-game inspired artwork) and Minimal (representational symbols). If you decide to use these assets publicly, giving credit is much appreciated though not necessary. Please feel free to message me anytime on Discord at Televo#9400 as I love to see how my efforts here have helped.
 
 Special thanks to auscompgeek for creating the Legacy Summon icons, Kimpchuu for creating the Proof of Fantasy and those who support and share my work with the community :)
