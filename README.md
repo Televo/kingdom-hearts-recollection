@@ -7,7 +7,7 @@ Special thanks to auscompgeek for creating the Legacy Summon icons, Kimpchuu for
 
 **If you appreciate what I do with all your heart, consider [supporting me on KoFi](https://ko-fi.com/televo).**
 
-[Download the Re:Collection Here](https://github.com/Televo/kingdom-hearts-recollection/releases/download/v3.0/kingdom-hearts-re:collection.zip) or go to the releases page and click on the latest .zip file.
+[Download the Re:Collection Here](https://github.com/Televo/kingdom-hearts-recollection/releases/download/v3.0/Kingdom-Hearts-ReCollection.zip) or go to the releases page and click on the latest .zip file.
 
 ![](preview.png)
 
