@@ -10,7 +10,7 @@ If you decide to use these assets and fonts publicly, giving credit is much appr
 
 **If you appreciate what I do with all your heart, consider [supporting me on KoFi](https://ko-fi.com/televo).** Of those few who have already done so, I am tremendously thankful, regardless of the amount.
 
-[Download Re:Collection Here](https://github.com/Televo/kingdom-hearts-recollection/releases/download/v3.0/Kingdom-Hearts-ReCollection.zip) or go to the releases page and click on the latest .zip file to download it.
+[Download Re:Collection Here](https://github.com/Televo/kingdom-hearts-recollection/releases/download/v4.0/Kingdom-Hearts-ReCollection.zip) or go to the releases page and click on the latest .zip file to download it.
 
 ![](Preview.png)
 
