@@ -12,7 +12,7 @@ Special thanks to auscompgeek and Kimpchuu for creating and allowing me include 
 
 [Download Re:Collection Here](https://github.com/Televo/kingdom-hearts-recollection/releases/download/v3.0/Kingdom-Hearts-ReCollection.zip) or go to the releases page and click on the latest .zip file to download it.
 
-![](preview.png)
+![](ReCollection Preview.png)
 
 In comparison to similar fonts found online, the characters in Re:Collection have been accurately recreated directly from the games where possible and have vastly improved spacing/kerning (especially when setting spacing to metric).
 
