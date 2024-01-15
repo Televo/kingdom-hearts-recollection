@@ -1,0 +1,78 @@
+Kingdom Hearts Re:Collection Fonts
+
+    KHMenu – Start Menu Font (Based on DFPW5_EUR)
+    KHGummi – Gummiship Font (Based on KH2_ALL_MENU_I)
+    KHTitle – Title Logo Font
+    KHScala – Scala ad Caelum Font
+    KHData – Datascape Font
+
+Other Notable Fonts (Not Included)
+
+    Kingdom Hearts Font by EliotTruelove - Title Logo Font
+    Comic Hearts by SpectreProXy - Cutscene Subtitle Font
+    DFSouGei-W5G - Command Menu Font
+    Floridian Script - Birth by Sleep Font
+    Serpentine - Final Mix Font
+    Impressum - Offical Website Font
+
+Character List
+
+A B C D E F G H I J
+K L M N O P Q R S T
+U V W X Y Z . , : ;
+a b c d e f g h i j
+k l m n o p q r s t
+u v w x y z … _ / \
+1 2 3 4 5 6 7 8 9 0
+! @ # $ % ^ & * ( )
+? © € £ ¥ ¢ ‘ ’ [ ]
++ - × ÷ = ~ “ ” { }
+< > ≤ ≥ ≠ | ¶ ◌́ ◌̀ ◌̋
+◌̂ ◌̌ ◌̈ ◌̇ ◌̄ ◌̃ ◌̊ ◌̆ ◌̧ ◌̨
+
+􏿾 ¡ ¿ ® ± ¦ – — · •
+« » ‹ › ‚ „ ° ′ ″ ™
+
+  ◌́ ◌̀ ◌̋ ◌̂ ◌̌ ◌̈ ◌̇ ◌̄ ◌̃ ◌̊ ◌̆ ◌̧ ◌̨
+A Á À · Â Ǎ Ä · Ā Ã Å Ă · Ą   Æ Ǣ
+C Ć · · Ĉ Č · Ċ · · · · Ç ·
+D · · · · Ď · · · · · · Ḑ ·   Ð Đ
+E É È · Ê Ě Ë Ė Ē Ẽ · Ĕ Ȩ Ę   Ə
+G · · · Ĝ · · Ġ Ḡ · · Ğ · ·   Ģ
+H · · · Ĥ · · · · · · · · ·   Ħ
+I Í Ì · Î Ǐ Ï İ Ī Ĩ · Ĭ · Į   Ĳ
+J J́ · · Ĵ · · · · · · · · ·
+K · · · · Ǩ · · · · · · · ·   Ķ
+L Ĺ · · · Ľ · Ŀ · · · · · ·   Ļ Ł
+M Ḿ · · · · · Ṁ · · · · · ·
+N Ń · · · Ň · Ṅ · Ñ · · Ŋ ·   Ņ
+O Ó Ò Ő Ô Ǒ Ö · Ō · Õ Ŏ · ·   Ø Ǿ Œ
+P · · · · · · · · · · · · ·   Þ
+R Ŕ · · · Ř · · · · · · · ·   Ŗ
+S Ś · · Ŝ Š · · · · · · Ş ·   Ꞌ Ș ẞ
+T · · · · Ť · · · · · · Ţ ·   Ț Ŧ
+U Ú Ù Ű Û Ǔ Ü · Ū Ũ Ů Ŭ · Ų
+W Ẃ Ẁ · Ŵ · Ẅ · · · · · · ·
+Y Ý Ỳ · Ŷ · Ÿ Ẏ Ȳ Ỹ · · · ·
+Z Ź · · · Ž · Ż · · · · · ·
+a á à · â ǎ ä · ā ã å ă · ą   æ ǣ
+c ć · · ĉ č · ċ · · · · ç ·   ꭓ
+d · · · · ď · · · · · · ḑ ·   ð đ
+e é è · ê ě ë ė · ẽ · ĕ ȩ ę   ə
+g · · · ĝ ǧ · ġ ḡ · · ğ · ·   ģ
+h · · · ĥ · · · · · · · · ·   ħ
+i í ì · î ǐ ï · ī ĩ · ĭ · į   ı ĳ
+j j́ · · ĵ · · · · · · · · ·   ȷ
+k · · · · ǩ · · · · · · · ·   ķ
+l ĺ · · · ľ · ŀ · · · · · ·   ļ ł
+m ḿ · · · · · ṁ · · · · · ·
+n ń · · · ň · ṅ · ñ · · ŋ ·   ņ
+o ó ò ő ô ǒ ö · ō õ · ŏ · ·   ø ǿ œ
+p · · · · · · · · · · · · ·   þ
+r ŕ · · · ř · · · · · · · ·   ŗ
+s ś · · ŝ š · · · · · · ş ·   ꞌ ș ß
+t · · · · ť ẗ · · · · · ţ ·   ț ŧ
+u ú ù ű û ǔ ü · ū ũ ů ŭ · ų
+w ẃ ẁ · ŵ · ẅ · · · · · · ·
+y ý ỳ · · · ÿ ẏ ȳ ỹ · · · ·
+z ź · · · ž · ż · · · · · ·

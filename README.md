@@ -1,23 +1,45 @@
-# Kingdom Hearts Re:Collection
+![](<Logo.png>)
 
-**Kingdom Hearts Re:Collection is a free archive of art assets and custom fonts created by Televo.** 
+<br><br>
 
-There are over 600 icons in Re:Collection inspired from all across the series including worlds, magic, forms, summons, key items, menu icons, numbers, progression icons, wallpapers and more. They can be classified into two main artistic styles; Detailed (flashy game artwork) and Minimal (coloured symbols).
+### Kingdom Hearts Re:Collection is a free archive of art assets and custom fonts created by Televo.
 
-If you decide to use these assets and fonts publicly, giving credit is much appreciated :) though not absolutely necessary. Please feel free to message me anytime on Discord at Televo#9400 as I love to see how my efforts have helped you create something awesome. I have no doubt the time spent on this project is well over 1000 hours.
+Re:Collection contains over 700 unique icons and a handful of fonts inspired from across the KH series, including worlds, combat abilities, key items, progression events, wallpapers and more. Icons can be classified into two artistic styles: DETAILED flashy artwork and MINIMAL coloured symbols.
 
-*Special thanks to auscompgeek and Kimpchuu for creating and allowing me include the Legacy Summons icons and Proof of Fantasy respectively, as well as those who support and share my work with the community :D*
+This archive is known for being featured in the majority of KH Trackers, Randomizers and in numerous modded projects throughout the community.
 
-**If you appreciate what I do with all your heart, consider [supporting me on KoFi](https://ko-fi.com/televo).** Of those few who have already done so, I am tremendously thankful, regardless of the amount.
+If you decide to use these assets and fonts publicly, giving credit is much appreciated although not necessary. No doubt my time spent here exceeds 2000 hours so if you cherish what I do with all your heart, consider supporting me. Of those who have already done so, I am tremendously thankful.
 
-[Download Re:Collection Here](https://github.com/Televo/kingdom-hearts-recollection/releases/download/v4.0/Kingdom-Hearts-ReCollection.zip) or go to the releases page and click on the latest .zip file to download it.
+Feel free to contact me anytime via Email or Discord. And I hope my efforts here help you to create something magnificent.
 
-![](Preview.png)
+### --> **[Download Re:Collection](https://github.com/Televo/kingdom-hearts-recollection/releases/download/v5.0/Kingdom-Hearts-ReCollection.zip)** <--
 
-In comparison to similar fonts found online, the characters in Re:Collection have been accurately recreated directly from the games where possible and have vastly improved spacing/kerning (especially when setting spacing to metric).
+<br><br>
 
-Numerous languages are supported including English, French, German, Italian, Spanish, Turkish, Polish, Norwegian, Swedish, Russian, Portuguese, Danish, Indonesian and many more latin-based languages. Note that while KHScala contains all known symbols, the font will contain translation inaccuracies because the Scalan language has not been fully deciphered.
+**[Visit the Re:Collection Website](https://televo.github.io/kingdom-hearts-recollection)**
 
-Included: KHMenu (Start Menu Font), KHGummi (Gummiship Font), KHTitle (Title Logo Font), KHScala (Scala ad Caelum Font)
+**[Donate Munny on Kofi](https://ko-fi.com/televo)**
 
-Not Included: DFPW5_EUR (Start Menu Font), KH2_ALL_MENU_I (Gummiship Font), Kingdom Hearts Font (Title Logo Font), Comic Hearts (Cutscene Subtitle Font), DFSouGei-W5G (Command Menu Font), Floridian Script (Birth by Sleep Font), Serpentine (Final Mix Font), Impressum (Offical Website Font)
+**[Contact Me via Email](mailto:televo.kh@gmail.com)**
+
+<br><br>
+
+![](<Preview.png>)
+
+<br><br>
+
+Font characters in Re:Collection are recreated faithfully, directly from the games whenever possible (such as KHTitle which pulls its characters from The World That Never Was). They have improved letter spacing (specifically when setting spacing to metric, not optical) and support various languages including English, French, German, Italian, Spanish, Turkish, Polish, Norwegian, Swedish, Russian, Portuguese, Danish, Indonesian and other latin-based languages.
+
+Letters and numbers in KHScala are accurate to our current knowledge, but may contain translation inaccuracies due to the Scalan language having not been fully deciphered. Punctuation contains any additional characters from Scalan and also custom made characters.
+
+<br>
+
+### Special Thanks
+
+Icon Concept Collaborators: Zax, DA, 1234567890num, ZakTheRobot & TopazTK (Provided Feedback on Icon Designs for Trackers)
+
+Art Contributors: Kimpchuu (Created the Proof of Fantasy) & KHNyctophiliac (Supplied a Daybreak Town HD Image)
+
+Financial Supporters: DoubleADewi, DJPRS, DA, Kayya, Raisin, TopazTK, GhostTheBoo & Timoram
+
+<br>
