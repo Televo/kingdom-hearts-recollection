@@ -1,7 +1,5 @@
 ![](<Logo.png>)
 
-<br><br>
-
 ### Kingdom Hearts Re:Collection is a free archive of art assets and custom fonts created by Televo.
 
 Re:Collection contains over 700 unique icons and a handful of fonts inspired from across the KH series, including worlds, combat abilities, key items, progression events, wallpapers and more. Icons can be classified into two artistic styles: DETAILED flashy artwork and MINIMAL coloured symbols.
@@ -12,21 +10,13 @@ If you decide to use these assets and fonts publicly, giving credit is much appr
 
 Feel free to contact me anytime via Email or Discord. And I hope my efforts here help you to create something magnificent.
 
-### --> **[Download Re:Collection](https://github.com/Televo/kingdom-hearts-recollection/releases/download/v5.0/Kingdom-Hearts-ReCollection.zip)** <--
+### !! **[Download Re:Collection](https://github.com/Televo/kingdom-hearts-recollection/releases/download/v5.0/Kingdom-Hearts-ReCollection.zip)** !!
 
-<br><br>
+**[Visit the Re:Collection Website](https://televo.github.io/kingdom-hearts-recollection)** &nbsp; | &nbsp; **[Donate Munny on Kofi](https://ko-fi.com/televo)** &nbsp; | &nbsp; **[Contact Me via Email](mailto:televo.kh@gmail.com)**
 
-**[Visit the Re:Collection Website](https://televo.github.io/kingdom-hearts-recollection)**
-
-**[Donate Munny on Kofi](https://ko-fi.com/televo)**
-
-**[Contact Me via Email](mailto:televo.kh@gmail.com)**
-
-<br><br>
+<br>
 
 ![](<Preview.png>)
-
-<br><br>
 
 Font characters in Re:Collection are recreated faithfully, directly from the games whenever possible (such as KHTitle which pulls its characters from The World That Never Was). They have improved letter spacing (specifically when setting spacing to metric, not optical) and support various languages including English, French, German, Italian, Spanish, Turkish, Polish, Norwegian, Swedish, Russian, Portuguese, Danish, Indonesian and other latin-based languages.
 
