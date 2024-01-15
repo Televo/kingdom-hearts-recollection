@@ -30,6 +30,4 @@ Icon Concept Collaborators: Zax, DA, 1234567890num, ZakTheRobot & TopazTK (Provi
 
 Art Contributors: Kimpchuu (Created the Proof of Fantasy) & KHNyctophiliac (Supplied a Daybreak Town HD Image)
 
-Financial Supporters: DoubleADewi, DJPRS, DA, Kayya, Raisin, TopazTK, GhostTheBoo & Timoram
-
-<br>
+Financial Supporters: DoubleADewi, DJPRS, DA, Kayya, Raisin, TopazTK, Sonzero, GhostTheBoo & Timoram
