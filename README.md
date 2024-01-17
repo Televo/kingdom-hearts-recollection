@@ -28,6 +28,6 @@ Letters and numbers in KHScala are accurate to our current knowledge, but may co
 
 Icon Concept Collaborators: Zax, DA, 1234567890num, ZakTheRobot & TopazTK (Provided Feedback on Icon Designs for Trackers)
 
-Art Contributors: Kimpchuu (Created the Proof of Fantasy) & KHNyctophiliac (Supplied a Daybreak Town HD Image)
+Art Contributors: Kimpchuu (Created the Proof of Fantasy) & KHNyctophiliac (Daybreak Town Icon HD Reference)
 
 Financial Supporters: DJPRS, DoubleADewi, DA, Kayya, Raisin, TopazTK, iAyeCaptainKai, Sonzero, GhostTheBoo & Timoram
