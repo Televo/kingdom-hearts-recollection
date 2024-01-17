@@ -4,13 +4,13 @@
 
 Re:Collection contains over 700 unique icons and a handful of fonts inspired from across the KH series, including worlds, combat abilities, key items, progression events, wallpapers and more. Icons can be classified into two artistic styles: DETAILED flashy artwork and MINIMAL coloured symbols.
 
-This archive is known for being featured in the majority of KH Trackers, Randomizers and in numerous modded projects throughout the community.
+This archive is known for being featured in the majority of trackers, randomizers and in numerous modded projects throughout the community.
 
 If you decide to use these assets and fonts publicly, giving credit is much appreciated although not necessary. No doubt my time spent here exceeds 2000 hours so if you cherish what I do with all your heart, consider supporting me. Of those who have already done so, I am tremendously thankful.
 
 Feel free to contact me anytime via Email or Discord. And I hope my efforts here help you to create something magnificent.
 
-### !! **[Download Re:Collection](https://github.com/Televo/kingdom-hearts-recollection/releases/download/v5.0/Kingdom-Hearts-ReCollection.zip)** !!
+### !! **[Download Kingdom Hearts Re:Collection](https://github.com/Televo/kingdom-hearts-recollection/releases/download/v5.0/Kingdom-Hearts-ReCollection.zip)** !!
 
 **[Visit the Re:Collection Website](https://televo.github.io/kingdom-hearts-recollection)** &nbsp; | &nbsp; **[Donate Munny on Kofi](https://ko-fi.com/televo)** &nbsp; | &nbsp; **[Contact Me via Email](mailto:televo.kh@gmail.com)**
 
