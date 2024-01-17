@@ -20,7 +20,7 @@ Feel free to contact me anytime via Email or Discord. And I hope my efforts here
 
 Font characters in Re:Collection are recreated faithfully, directly from the games whenever possible (such as KHTitle which pulls its characters from The World That Never Was). They have improved letter spacing (specifically when setting spacing to metric, not optical) and support various languages including English, French, German, Italian, Spanish, Turkish, Polish, Norwegian, Swedish, Russian, Portuguese, Danish, Indonesian and other latin-based languages.
 
-Letters and numbers in KHScala are accurate to our current knowledge, but may contain translation inaccuracies due to the Scalan language having not been fully deciphered. Punctuation contains any additional characters from Scalan and also custom made characters.
+Letters and numbers in KHScala are accurate to our current knowledge, but may contain translation inaccuracies due to the Scalan language having not been fully deciphered. Punctuation contains some repeat characters, additional symbols and custom made characters.
 
 <br>
 
