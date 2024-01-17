@@ -1,6 +1,7 @@
-Kingdom Hearts Re:Collection Fonts
+Re:Collection Fonts
 
     KHMenu – Start Menu Font (Based on DFPW5_EUR)
+           - Includes Bold and Italics
     KHGummi – Gummiship Font (Based on KH2_ALL_MENU_I)
     KHTitle – Title Logo Font
     KHScala – Scala ad Caelum Font
