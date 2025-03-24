@@ -28,7 +28,7 @@ Various languages are supported including English, French, German, Italian, Span
     
 As the Scalan language hasn't been fully deciphered KHScala & KHScalaScirpt does contain translation inaccuracies.
 
-![](<Fonts/Translation.png>)
+![](<Fonts/Scalan Translation.png>)
 
 <br>
 
