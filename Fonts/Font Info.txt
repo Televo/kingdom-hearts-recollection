@@ -1,0 +1,96 @@
+Kingdom Hearts Re:Collection Fonts
+
+Fonts in Re:Collection are recreated faithfully, directly from the games where possible (such as KHTitle which uses characters from The World That Never Was). They also have improved letter spacing (specifically when set to metric, not optical spacing).
+
+Various languages are supported including English, French, German, Italian, Spanish, Turkish, Polish, Norwegian, Swedish, Russian, Portuguese, Danish, Indonesian and other latin-based languages.
+
+As the Scalan language hasn't been fully deciphered KHScala & KHScalaScirpt does contain translation inaccuracies.
+
+NAME -------------------	APPEARANCE ----------------------	AUTHOR -----------------------------
+KHMenu			Start Menu Font			Televo
+KHGummi			Gummiship Font			Televo
+KHTitle			Title Screen Logo Font		Televo
+KHData			Datascape Font			Televo
+KHScala			Scala ad Caelum Font		Televo
+KHScalaScript		Scala ad Caelum Cursive Font	Televo & Breezyfeather
+
+
+
+Notable Fonts (Not Included in Re:Collection)
+
+NAME -------------------	APPEARANCE ----------------------	AUTHOR -----------------------------
+Serpentine		Final Mix Logo Font		Dick Jensen
+Alison			358/2 Days Logo Font		Robert Wall & Nancy Wall
+ITC Galliard Std Bold	358/2 Days Day Counter Font	Matthew Carter
+Nuptial Script		Birth by Sleep Logo Font		Edwin W. Shaar
+Woodtype Ornaments One	Dingbat Credits Font		Barbara Lind & Joy Redick
+Impressum		Offical Website Font		Konrad Friedrich Bauer & Walter Baum
+DFSoGei Std		Start Menu Font			DynaComware
+DFSoGei W5G		Command Menu Font		DynaComware
+KH2_ALL_MENU_I		Gummiship Font			Square Enix
+Kingdom Hearts Font	Title Screen Logo Font		EliotTruelove
+Comic Hearts		Cutscene Subtitle Font		SpectreProXy
+
+
+
+Character List
+
+A B C D E F G H I J
+K L M N O P Q R S T
+U V W X Y Z . , : ;
+a b c d e f g h i j
+k l m n o p q r s t
+u v w x y z … _ / \
+1 2 3 4 5 6 7 8 9 0
+! @ # $ % ^ & * ( )
+? © € £ ¥ ¢ ‘ ’ [ ]
++ - × ÷ = ~ “ ” { }
+< > ≤ ≥ ≠ | ¶ ◌́ ◌̀ ◌̋
+◌̂ ◌̌ ◌̈ ◌̇ ◌̄ ◌̃ ◌̊ ◌̆ ◌̧ ◌̨
+
+􏿾 ¡ ¿ ® ± ¦ – — · •
+« » ‹ › ‚ „ ° ′ ″ ™
+
+  ◌́ ◌̀ ◌̋ ◌̂ ◌̌ ◌̈ ◌̇ ◌̄ ◌̃ ◌̊ ◌̆ ◌̧ ◌̨
+A Á À · Â Ǎ Ä · Ā Ã Å Ă · Ą   Æ Ǣ
+C Ć · · Ĉ Č · Ċ · · · · Ç ·
+D · · · · Ď · · · · · · Ḑ ·   Ð Đ
+E É È · Ê Ě Ë Ė Ē Ẽ · Ĕ Ȩ Ę   Ə
+G · · · Ĝ · · Ġ Ḡ · · Ğ · ·   Ģ
+H · · · Ĥ · · · · · · · · ·   Ħ
+I Í Ì · Î Ǐ Ï İ Ī Ĩ · Ĭ · Į   Ĳ
+J J́ · · Ĵ · · · · · · · · ·
+K · · · · Ǩ · · · · · · · ·   Ķ
+L Ĺ · · · Ľ · Ŀ · · · · · ·   Ļ Ł
+M Ḿ · · · · · Ṁ · · · · · ·
+N Ń · · · Ň · Ṅ · Ñ · · Ŋ ·   Ņ
+O Ó Ò Ő Ô Ǒ Ö · Ō · Õ Ŏ · ·   Ø Ǿ Œ
+P · · · · · · · · · · · · ·   Þ
+R Ŕ · · · Ř · · · · · · · ·   Ŗ
+S Ś · · Ŝ Š · · · · · · Ş ·   Ꞌ Ș ẞ
+T · · · · Ť · · · · · · Ţ ·   Ț Ŧ
+U Ú Ù Ű Û Ǔ Ü · Ū Ũ Ů Ŭ · Ų
+W Ẃ Ẁ · Ŵ · Ẅ · · · · · · ·
+Y Ý Ỳ · Ŷ · Ÿ Ẏ Ȳ Ỹ · · · ·
+Z Ź · · · Ž · Ż · · · · · ·
+a á à · â ǎ ä · ā ã å ă · ą   æ ǣ
+c ć · · ĉ č · ċ · · · · ç ·   ꭓ
+d · · · · ď · · · · · · ḑ ·   ð đ
+e é è · ê ě ë ė · ẽ · ĕ ȩ ę   ə
+g · · · ĝ ǧ · ġ ḡ · · ğ · ·   ģ
+h · · · ĥ · · · · · · · · ·   ħ
+i í ì · î ǐ ï · ī ĩ · ĭ · į   ı ĳ
+j j́ · · ĵ · · · · · · · · ·   ȷ
+k · · · · ǩ · · · · · · · ·   ķ
+l ĺ · · · ľ · ŀ · · · · · ·   ļ ł
+m ḿ · · · · · ṁ · · · · · ·
+n ń · · · ň · ṅ · ñ · · ŋ ·   ņ
+o ó ò ő ô ǒ ö · ō õ · ŏ · ·   ø ǿ œ
+p · · · · · · · · · · · · ·   þ
+r ŕ · · · ř · · · · · · · ·   ŗ
+s ś · · ŝ š · · · · · · ş ·   ꞌ ș ß
+t · · · · ť ẗ · · · · · ţ ·   ț ŧ
+u ú ù ű û ǔ ü · ū ũ ů ŭ · ų
+w ẃ ẁ · ŵ · ẅ · · · · · · ·
+y ý ỳ · · · ÿ ẏ ȳ ỹ · · · ·
+z ź · · · ž · ż · · · · · ·
